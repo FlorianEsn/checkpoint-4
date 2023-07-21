@@ -27,7 +27,7 @@ function PopularMovies() {
       headers: {
         "Content-Type": "application/json",
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlOWZjMWJkZjY3OThmMmZkNjQzNzE1MWNhMTk4M2Q3MSIsInN1YiI6IjY0YjhlZmI4YWI2ODQ5MDBlMjMwNjIyNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.JihO1jR3pAvZwwxH1HKQfwYEYxZrJlxb4sOd2u_6Ok0",
+          ""
       },
     };
 
