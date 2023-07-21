@@ -26,8 +26,6 @@ function PopularMovies() {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
-        Authorization:
-          ""
       },
     };
 
